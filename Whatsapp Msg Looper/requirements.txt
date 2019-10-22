@@ -64,7 +64,7 @@ olefile==0.44
 pager==3.3
 pandas==0.20.3
 pefile==2017.11.5
-Pillow==4.2.1
+Pillow==6.2.0
 pipreqs==0.4.9
 post==0.0.26
 poyo==0.4.1
